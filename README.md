@@ -31,7 +31,7 @@ When I'm not coding, I'm planning my next project — right now that's **Ravix**
 
 ---
 
-/*## Tech Stack
+<--- ## Tech Stack
 
 <table>
 <tr>
@@ -69,8 +69,8 @@ VS Code       ████████████  ★★★★★
 
 </td>
 </tr>
-</table>
-*/
+</table> --->
+
 ---
 ## 💻 Tech Stack
 
