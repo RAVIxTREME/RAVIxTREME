@@ -112,10 +112,11 @@ VS Code       ████████████  ★★★★★
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAVIxTREME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+[
 
+![trophy](https://github-trophies.vercel.app/?username=RAVIxTREME)
+
+](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📈 Contribution Graph
