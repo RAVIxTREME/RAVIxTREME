@@ -113,10 +113,9 @@ VS Code       ████████████  ★★★★★
 ## 🏆 GitHub Trophies
 [
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RAVIxTREME)
+![trophy](https://github-trophies.vercel.app/?username=RAVIxTREME&theme=dark)
 
-](...)
-
+]
 ## 📈 Contribution Graph
 
 <p align="center">
