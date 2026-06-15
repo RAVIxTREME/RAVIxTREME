@@ -149,11 +149,11 @@ My very first project — built solo during ITI using only HTML and CSS.
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ AI Voice Agent
+<!--### 🎙️ AI Voice Agent
 Desktop voice assistant with wake word detection, DuckDuckGo search, GPT-4o-mini integration and text-to-speech output.
 
 `Python` `SpeechRecognition` `pyttsx3` `GPT-4o`
-
+-->
 </td>
 </tr>
 </table>
