@@ -132,7 +132,7 @@ Full-stack web app with login system, user profiles and login history tracking �
 <td width="50%" valign="top">
 
 ### ⚙️ Ravix Language *(in progress)*
-A custom programming language built from scratch — `.dn` file extension, custom Lexer + Parser + Interpreter, CLI tool and VS Code extension planned.
+A custom programming language built from scratch — `.rx` file extension, custom Lexer + Parser + Interpreter, CLI tool and VS Code extension planned.
 
 `Python` `AST` `Compiler Design`
 
