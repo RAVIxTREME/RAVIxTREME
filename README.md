@@ -151,6 +151,7 @@ My very first project — built solo during ITI using only HTML and CSS.
 
 ### 🌐Pixora
 A full-stack blogging platform built with React and Django REST Framework
+
 `Python` `Reactjs` `MySql` `Django` `Restapi`
 
 </td>
