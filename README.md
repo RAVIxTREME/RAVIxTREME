@@ -18,7 +18,7 @@
 
 I'm a self-taught developer from Pune who started with basic HTML/CSS and worked my way up to building full-stack applications with Django and MySQL — deployed and live.
 
-Currently pursuing **Diploma in CSE** after completing **ITI COPA** with Grade A. Working toward **B.Tech in AI/ML** via lateral entry.
+Currently pursuing **Diploma in AI/ML** after completing **ITI COPA** with Grade 88.90%. Working toward **B.Tech in AI/ML** via lateral entry.
 
 When I'm not coding, I'm planning my next project — right now that's **Ravix**, a programming language I'm building from scratch.
 
@@ -84,8 +84,8 @@ VS Code       ████████████  ★★★★★
 
 ### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![RestAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
