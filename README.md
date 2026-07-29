@@ -77,6 +77,10 @@ VS Code       ████████████  ★★★★★
 ---
 ## 💻 Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,mysql,git" />
+</p>
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -116,10 +120,9 @@ VS Code       ████████████  ★★★★★
   <img src="https://streak-stats.demolab.com?user=RAVIxTREME&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
+</p> -->
 ---
 
 ## 📈 Contribution Graph
@@ -177,8 +180,8 @@ A full-stack blogging platform built with React and Django REST Framework
 ```
  ✅  ITI COPA — Completed (Grade A)
  ✅  Django Full Stack Project — Built & Deployed
- ✅  AI Voice Agent — Built
- ◻️  Diploma CSE Admission
+ ✅  Diploma AI/ML Admission 
+ ◻️  Reactjs + Django & Ai integrated Project 
  ◻️  Ravix Language — Complete v1.0
  ◻️  First internship / freelance project
  ◻️  B.Tech AI/ML — Lateral entry prep
