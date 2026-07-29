@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:A78BFA&height=200&section=header&text=Ravi%20Bhosale&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7900FF,100:A78BFA&height=200&section=header&text=Ravi%20Bhosale&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
-  <a href="https://discord.gg/m8ZJCh6Qw">
+  <a href="https://discord.gg/CmjpZ5S4q">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
 </p>
