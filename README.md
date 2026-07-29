@@ -212,3 +212,7 @@ A full-stack blogging platform built with React and Django REST Framework
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
+</p>
+
