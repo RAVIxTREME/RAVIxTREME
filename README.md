@@ -5,17 +5,7 @@
 </div>
 
 <div align="center">
-[![TypingSVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+AI/ML+(2026); Learning+Reactjs%2C+Learning+AI&ML.)]
-
-[![Typing SVG](https://readme-typing-svg
-.demolab.com?font=JetBrains+Mono&weight
-=600&size=20&pause=1200&color=A78BFA
-&center=true&vCenter=true&width=550&lines=Python+
-%26+Django+Developer;Building+Ravix+
-%E2%80%94+a+custom+language;ITI+COPA+Graduate+
-%7C+Diploma+AI/
-ML+(2026);Always+learning%2C+always+building.)](
-https://github.com/RAVIxTREME)
+[![TypingSVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+AI/ML+(2026);Learning+Reactjs%2C+Learning+AI&ML.)](https://github.com/RAVIxTREME)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D26A&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Ravix+Language+Creator;AI%2FML+Enthusiast;Open+Source+Contributor)](https://github.com/RAVIxTREME)
 
