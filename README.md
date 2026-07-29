@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Bhosale&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Pune%2C%20India&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Laxmi%20Sanas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -9,6 +9,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+AI/ML+(2026);Always+learning%2C+always+building.)](https://github.com/RAVIxTREME)
 
 </div>
+<p align="center">
+  <a href="https://linkedin.com/in/laxmisanas">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+  </a>
+  <a href="https://discord.gg/laxmi0366">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -17,7 +25,6 @@
 ### Who am I?
 
 hello everyone !
-
 you know my name 😅
 
 I'm from Pune who started with basic HTML/CSS and worked my way up to building full-stack applications with Django and MySQL — deployed and live.
