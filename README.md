@@ -10,10 +10,10 @@
 
 </div>
 <p align="center">
-  <a href="https://linkedin.com/in/laxmisanas">
+  <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
-  <a href="https://discord.gg/laxmi0366">
+  <a href="https://discord.gg/ravixtreme7">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
 </p>
