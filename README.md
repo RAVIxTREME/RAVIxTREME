@@ -103,7 +103,7 @@ VS Code       ████████████  ★★★★★
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/RAVIxTREME/RAVIxTREME/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
@@ -113,8 +113,15 @@ VS Code       ████████████  ★★★★★
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIxTREME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
+</p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laxmisanas07&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
@@ -208,6 +215,6 @@ A full-stack blogging platform built with React and Django REST Framework
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:00e7ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e7ff&height=120&section=footer"/>
 </p>
 
