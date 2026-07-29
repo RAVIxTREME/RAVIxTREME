@@ -201,11 +201,11 @@ A full-stack blogging platform built with React and Django REST Framework
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
   <a href="https://discord.gg/CmjpZ5S4q">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
+   src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
 </p>
 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 
 
