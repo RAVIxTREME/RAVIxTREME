@@ -78,7 +78,7 @@ VS Code       ████████████  ★★★★★
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,reactjs,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react.js,mysql,git" />
 </p>
 
 ### Languages
@@ -100,7 +100,6 @@ VS Code       ████████████  ★★★★★
 
 ### Currently Building
 ![Ravix Lang](https://img.shields.io/badge/🔧_Ravix_Language-in_progress-orange?style=for-the-badge)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
