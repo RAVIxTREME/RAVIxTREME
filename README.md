@@ -12,8 +12,7 @@
 </div>
 
 ---
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+<!-- <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" /> -->
 
 ### Who am I?
 
