@@ -78,7 +78,7 @@ VS Code       ████████████  ★★★★★
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react.js,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react,mysql,git,vscode,Ubuntu,arch,linux,py" />
 </p>
 
 ### Languages
