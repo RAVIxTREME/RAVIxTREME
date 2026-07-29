@@ -107,8 +107,6 @@ VS Code       ████████████  ★★★★★
   <img src="https://raw.githubusercontent.com/RAVIxTREME/RAVIxTREME/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
-
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIxTREME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
@@ -116,12 +114,13 @@ VS Code       ████████████  ★★★★★
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=laxmisanas07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RAVIxTREME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 📈 Contribution Graph
