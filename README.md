@@ -208,6 +208,6 @@ A full-stack blogging platform built with React and Django REST Framework
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?"https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e7ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e7ff&height=120&section=footer"/>
 </p>
 
