@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
-  <a href="https://discord.gg/ravixtreme7">
+  <a href="https://discord.gg/m8ZJCh6Qw">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
 </p>
