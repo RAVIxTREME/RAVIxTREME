@@ -6,6 +6,7 @@
 
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF0050&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Python+%26+Full+Stack+Dev;%E2%9C%A8+Building+Ravix+Language;%F0%9F%A4%96+AI%2FML+Diploma+(2026);%F0%9F%94%A5+Learning+React+%26+AI;%F0%9F%92%BB+Open+Source+Enthusiast)](https://github.com/RAVIxTREME)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Full+Stack+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+AI%2FML+(2026);Learning+Reactjs;Learning+AI%26ML)](https://github.com/RAVIxTREME)
 
 <!-- <h4 align="center">🚀 AI & ML Student | Python Full Stack Developer | Reactjs </h4> -->
