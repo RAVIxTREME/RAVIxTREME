@@ -9,14 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+AI/ML+(2026);Always+learning%2C+always+building.)](https://github.com/RAVIxTREME)
 
 </div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
-  </a>
-  <a href="https://discord.gg/CmjpZ5S4q">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
-  </a>
-</p>
 
 ---
 
@@ -203,6 +195,16 @@ A full-stack blogging platform built with React and Django REST Framework
 ![Profile Views](https://komarev.com/ghpvc/?username=RAVIxTREME&color=a78bfa&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+  </a>
+  <a href="https://discord.gg/CmjpZ5S4q">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
+  </a>
+</p>
+
 
 </div>
 
