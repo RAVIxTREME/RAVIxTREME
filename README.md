@@ -195,7 +195,7 @@ A full-stack blogging platform built with React and Django REST Framework
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=RAVIxTREME&color=a78bfa&style=flat-square)
 
-<img 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
@@ -208,6 +208,6 @@ A full-stack blogging platform built with React and Django REST Framework
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?"https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e7ff&height=120&section=footer"/>
 </p>
 
