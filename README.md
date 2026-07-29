@@ -103,14 +103,13 @@ VS Code       ████████████  ★★★★★
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAVIxTREME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIxTREME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+[![RAVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAVIxTREME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIxTREME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
