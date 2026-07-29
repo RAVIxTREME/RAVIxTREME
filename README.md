@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+CSE+(2026);Always+learning%2C+always+building.)](https://github.com/RAVIxTREME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer;Building+Ravix+%E2%80%94+a+custom+language;ITI+COPA+Graduate+%7C+Diploma+AI/ML+(2026);Always+learning%2C+always+building.)](https://github.com/RAVIxTREME)
 
 </div>
 
@@ -16,7 +16,10 @@
 
 ### Who am I?
 
-I'm a self-taught developer from Pune who started with basic HTML/CSS and worked my way up to building full-stack applications with Django and MySQL — deployed and live.
+hello everyone !
+you know my name 😅
+
+I'm from Pune who started with basic HTML/CSS and worked my way up to building full-stack applications with Django and MySQL — deployed and live.
 
 Currently pursuing **Diploma in AI/ML** after completing **ITI COPA** with Grade 88.90%. Working toward **B.Tech in AI/ML** via lateral entry.
 
