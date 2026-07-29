@@ -78,7 +78,7 @@ VS Code       ████████████  ★★★★★
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react,mysql,git,vscode,Ubuntu,arch,linux,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react,mysql,git,vscode,windows,arch,linux,py" />
 </p>
 
 ### Languages
@@ -92,7 +92,7 @@ VS Code       ████████████  ★★★★★
 ### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![RestAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
 ![React.js](https://img.shields.io/badge/react.js-43853D?style=for-the-badge&logo=react.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
