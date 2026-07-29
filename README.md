@@ -15,7 +15,7 @@
 %E2%80%94+a+custom+language;ITI+COPA+Graduate+
 %7C+Diploma+AI/
 ML+(2026);Always+learning%2C+always+building.)](
-https://github.com/RAVIXTREME)
+https://github.com/RAVIxTREME)
 
 <!-- <h4 align="center">🚀 AI & ML Student | Python Full Stack Developer | Reactjs </h4> -->
 </div>
