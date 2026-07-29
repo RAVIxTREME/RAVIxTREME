@@ -188,9 +188,10 @@ A full-stack blogging platform built with React and Django REST Framework
 
 ---
 
-<div align="center">
+<!--- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIxTREME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
+--->
 
 <br/><br/>
 
