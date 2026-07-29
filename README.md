@@ -17,6 +17,8 @@
 ML+(2026);Always+learning%2C+always+building.)](
 https://github.com/RAVIxTREME)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D26A&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Ravix+Language+Creator;AI%2FML+Enthusiast;Open+Source+Contributor)](https://github.com/RAVIxTREME)
+
 <!-- <h4 align="center">🚀 AI & ML Student | Python Full Stack Developer | Reactjs </h4> -->
 </div>
 
