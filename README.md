@@ -36,7 +36,7 @@ When I'm not coding, I'm planning my next project — right now that's **Ravix**
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react,mysql,git,vscode,windows,arch,linux,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react,mysql,git,vscode,windows,arch,linux" />
 </p>
 
 ### Languages
