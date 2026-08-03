@@ -166,7 +166,7 @@ A full-stack blogging platform built with React and Django REST Framework
   <a href="https://www.linkedin.com/in/ravi-bhosale-a6291a393">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
-  <a href="https://discord.gg/CmjpZ5S4q">
+  <a href="https://discord.gg/qNfDnBSNt">
   <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
 </p>
