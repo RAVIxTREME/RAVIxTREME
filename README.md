@@ -80,6 +80,14 @@ When I'm not coding, I'm planning my next project — right now that's **Ravix**
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RAVIxTREME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
