@@ -174,7 +174,7 @@ A full-stack blogging platform built with React and Django REST Framework
 
 
 </div>
-<img src="./banner2.svg" alt="Typewriter Thanks Banner" width="550" align="center"/>
+<img src="./banner2.svg" alt="Typewriter Thanks Banner" width="550" align="middle"/>
 
 </div>
 <p align="center">
