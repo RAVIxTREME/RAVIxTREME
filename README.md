@@ -138,11 +138,8 @@ A full-stack blogging platform built with React and Django REST Framework
 ```
  ✅  ITI COPA — Completed (Grade A)
  ✅  Django Full Stack Project — Built & Deployed
- ✅  Diploma AI/ML Admission 
- ◻️  Reactjs + Django & Ai integrated Project 
- ◻️  Ravix Language — Complete v1.0
- ◻️  First internship / freelance project
- ◻️  B.Tech AI/ML — Lateral entry prep
+ ✅  Diploma AI/ML Admission
+✨◻️  Ravix Language — Complete v1.0
 ```
 
 ---
