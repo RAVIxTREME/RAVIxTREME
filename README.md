@@ -28,7 +28,7 @@ When I'm not coding, I'm planning my next project — right now that's **Ravix**
 - 📍 Pune, Maharashtra
 - 📬 [ravixtreme7@gmail.com](mailto:ravixtreme7@gmail.com)
 - 🔭 Currently building: **Ravix Language**
-- 📖 Reading: *Crafting Interpreters* by Robert Nystrom
+<!-- - 📖 Reading: *Crafting Interpreters* by Robert Nystrom -->
 
 <br clear="right"/>
 
