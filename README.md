@@ -10,17 +10,7 @@
 
 <!-- <h4 align="center">🚀 AI & ML Student | Python Full Stack Developer | Reactjs </h4> -->
 </div>
-<picture>
-  <source media="(prefers-color-scheme: light)"
-srcset="https://www.gitskins.com/api/section/map-graph?
-username=ravixtreme&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F
-208646925%3Fv%3D42a5e6eb8fe6e7efcecbaa38a74c62d4b40f98bd%26v%3D4&mode=light&v
-=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/map-graph?
-username=ravixtreme&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F
-208646925%3Fv%3D42a5e6eb8fe6e7efcecbaa38a74c62d4b40f98bd%26v%3D4&mode=dark&v=
-2026-11-11" width="100%" alt="A map of Ravi Bhosale 's projects" />
-</picture>
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ravi Bhosale</h1>
 
 
@@ -28,10 +18,10 @@ username=ravixtreme&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F
 ---
 <!-- <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" /> -->
 
-### Who am I?
+<!-- ### Who am I?
 
 hello everyone !
-you know my name 😅
+you know my name 😅 -->
 
 I'm from Pune who started with basic HTML/CSS and worked my way up to building full-stack applications with Django and MySQL — deployed and live.
 
