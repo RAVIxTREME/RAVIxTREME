@@ -10,12 +10,13 @@
 
 <!-- <h4 align="center">🚀 AI & ML Student | Python Full Stack Developer | Reactjs </h4> -->
 </div>
+<!----
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ravi Bhosale</h1>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /> 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=RAVIxTREME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
-
+---->
  ### Who am I?
 
 hello everyone !
