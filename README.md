@@ -129,6 +129,21 @@ A full-stack blogging platform built with React and Django REST Framework
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐Department of AI ML(webpage)
+First mini project in my college even others does not known what is coding..
+
+`Html` `Css` `Team Leader` `Vercel` `Git`
+
+</td>
+</tr>
 </table>
 
 ---
